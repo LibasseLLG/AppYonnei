@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Acceuil"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/bottom_scan"
+        android:title="Scan"
+        android:icon="@drawable/baseline_qr_code_scanner_24"/>
+    <item
+        android:id="@+id/bottom_envoyer"
+        android:title="Envoyer"
+        android:icon="@drawable/baseline_arrow_outward_24"/>
+    <item
+        android:id="@+id/bottom_folder"
+        android:title="Facture"
+        android:icon="@drawable/baseline_folder_24"/>
+    <item
+        android:id="@+id/bottom_menu"
+        android:title="Menu"
+        android:icon="@drawable/baseline_settings_24"/>
+
+</menu>

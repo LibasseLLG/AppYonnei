@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442321157594",
+    "project_id": "appyonnei",
+    "storage_bucket": "appyonnei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442321157594:android:5bd1209e2b0874500214e3",
+        "android_client_info": {
+          "package_name": "com.example.appyonnei"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmMWaeIVi2mC2N5WGw8XwEFPqDKixwH6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

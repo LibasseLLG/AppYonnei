@@ -22,10 +22,7 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
 
-                R.id.bottom_scan -> {
-                    replaceFragment(ScanFragment())
-                    true
-                }
+
 
                 R.id.bottom_envoyer -> {
                     replaceFragment(EnvoyerFragment())

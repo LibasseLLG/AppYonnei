@@ -13,4 +13,10 @@
         <item name="android:color">@color/yellow</item>
     </style>
 
+    <style name="modeSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/app</item>
+        <item name="colorSwitchThumbNormal">#FFFFFF</item>
+        <item name="android:colorForeground">#000</item>
+    </style>
+
 </resources>

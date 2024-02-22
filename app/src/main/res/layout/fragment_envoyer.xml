@@ -37,7 +37,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:id="@+id/edtAmount"
-        android:hint="Username"
+        android:hint="Enter Amount"
         android:padding="12dp"
         android:background="@drawable/edittext_border"
         app:layout_constraintStart_toStartOf="parent"
@@ -52,7 +52,7 @@
     <Button
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/btnEnvoyer"
+        android:id="@+id/btnPayNow"
         android:text="Envoyer"
         android:textColor="@color/white"
         android:backgroundTint="@color/app"

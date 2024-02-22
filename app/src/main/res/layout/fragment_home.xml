@@ -12,7 +12,7 @@
         android:orientation="horizontal"
         android:gravity="top"
         android:padding="16dp"
-        android:background="#D3D2D2"
+        android:background="#EAE5E5"
         android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
         <ImageView
